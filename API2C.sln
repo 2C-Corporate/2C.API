@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = " src", " src", "{EBD7EAB9-D488-4023-A79B-55F8AFBFFC0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API2C", "API2C\src\API2C.csproj", "{CAA99A8D-B1FE-4286-8FFC-C0AABED8AEAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API2C", "src\API2C.WEB\API2C.csproj", "{CC765B12-1554-403D-AF07-E1C13322D068}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,12 +10,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{CAA99A8D-B1FE-4286-8FFC-C0AABED8AEAF} = {EBD7EAB9-D488-4023-A79B-55F8AFBFFC0F}
+		{CC765B12-1554-403D-AF07-E1C13322D068} = {EBD7EAB9-D488-4023-A79B-55F8AFBFFC0F}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CAA99A8D-B1FE-4286-8FFC-C0AABED8AEAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CAA99A8D-B1FE-4286-8FFC-C0AABED8AEAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CAA99A8D-B1FE-4286-8FFC-C0AABED8AEAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CAA99A8D-B1FE-4286-8FFC-C0AABED8AEAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC765B12-1554-403D-AF07-E1C13322D068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC765B12-1554-403D-AF07-E1C13322D068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC765B12-1554-403D-AF07-E1C13322D068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC765B12-1554-403D-AF07-E1C13322D068}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
