@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\RiderProjects\\API2C\\API2C\\src\\API2C.csproj",
+      "projectUniqueName": "C:\\Users\\User\\RiderProjects\\API2C\\API2C\\src\\API2C.WEB\\API2C.csproj",
       "projectName": "API2C",
-      "projectPath": "C:\\Users\\User\\RiderProjects\\API2C\\API2C\\src\\API2C.csproj",
+      "projectPath": "C:\\Users\\User\\RiderProjects\\API2C\\API2C\\src\\API2C.WEB\\API2C.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\RiderProjects\\API2C\\API2C\\src\\obj\\",
+      "outputPath": "C:\\Users\\User\\RiderProjects\\API2C\\API2C\\src\\API2C.WEB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
